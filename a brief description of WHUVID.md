@@ -84,10 +84,22 @@
 
 
 
-# <center><font face="Times New Roman"> WHUVID011 - WHUVID034: Coming soon... </font></center>
+## <center><font face="Times New Roman"> WHUVID011 - WHUVID034: Coming soon... </font></center>
   
-# <center><font face="Times New Roman"> Cite:</font></center>  
+## <center><font face="Times New Roman"> Cite:</font></center>  
   
-&emsp;&emsp; <font face="Times New Roman" size = 4>Coming soon... </font>  
+<font face="Times New Roman" size = 4>If you use this dataset for your research, a footnote with the link to this repository is appreciated: </font>  
+  '''
+  github.com/chentianyangWHU/WHUVID.
+  '''
+    
+  <font face="Times New Roman" size = 4>...or, for citation with BibTeX:</font>  
   
-  
+  '''
+  @misc{cty2022whuvid,
+  title={WHUVID: Wuhan Urban Visual-inertial Dataset.},
+  author={tianyang chen, fangling pu, hongjia chen, zhihong liu},
+  howpublished={\url{https://github.com/chentianyangWHU/WHUVID}},
+  year={2022}
+  }
+  '''
