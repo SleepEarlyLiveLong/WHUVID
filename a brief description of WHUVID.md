@@ -10,7 +10,7 @@
 # <center><font face="Times New Roman"> Download here.</font></center>
 <font face="Times New Roman" size = 8>**Links are as follows:**</font>  
   
-  *<font color="#dd0000"><u>(The following sections of data have been uploaded and can be downloaded.)</u></font>*  
+  <u>*<font color="#dd0000">(The following sections of data have been uploaded and can be downloaded.)</font>*</u>  
   
 &emsp;&emsp; <font face="Times New Roman" size = 4>**Calibration data.**</font>  
   &emsp;&emsp;&emsp; <font face="Times New Roman" size = 3>zip file: [download](https://pan.baidu.com/s/1vEJYteSgoEzjKjSE4Ae2xg), password: CAzp; size: 1.80 GB.</font>  
