@@ -1,0 +1,121 @@
+Calibration results
+===================
+Normalized Residuals
+----------------------------
+Reprojection error (cam0):     mean 0.489191446083, median 0.430240210629, std: 0.307137281348
+Reprojection error (cam1):     mean 0.588306083474, median 0.526549267497, std: 0.347433173697
+Gyroscope error (imu0):        mean 0.374474809686, median 0.337960975369, std: 0.194315813555
+Accelerometer error (imu0):    mean 0.130118620448, median 0.112899669889, std: 0.092223425015
+
+Residuals
+----------------------------
+Reprojection error (cam0) [px]:     mean 0.489191446083, median 0.430240210629, std: 0.307137281348
+Reprojection error (cam1) [px]:     mean 0.588306083474, median 0.526549267497, std: 0.347433173697
+Gyroscope error (imu0) [rad/s]:     mean 0.0160570991995, median 0.0144914230989, std: 0.00833206457036
+Accelerometer error (imu0) [m/s^2]: mean 0.0650566500339, median 0.0564475267847, std: 0.04610982706
+
+Transformation (cam0):
+-----------------------
+T_ci:  (imu0 to cam0): 
+[[ 0.00815187  0.99966053 -0.02474616  0.02200964]
+ [ 0.99994041 -0.00796945  0.00746115 -0.00185234]
+ [ 0.0072614  -0.02480551 -0.99966592 -0.02307056]
+ [ 0.          0.          0.          1.        ]]
+
+T_ic:  (cam0 to imu0): 
+[[ 0.00815187  0.99994041  0.0072614   0.00184034]
+ [ 0.99966053 -0.00796945 -0.02480551 -0.02258921]
+ [-0.02474616  0.00746115 -0.99966592 -0.02250438]
+ [ 0.          0.          0.          1.        ]]
+
+timeshift cam0 to imu0: [s] (t_imu = t_cam + shift)
+0.00463637286291
+
+
+Transformation (cam1):
+-----------------------
+T_ci:  (imu0 to cam1): 
+[[ 0.00853398  0.9997126  -0.02240281 -0.09801648]
+ [ 0.99986026 -0.0082089   0.01456284 -0.00189988]
+ [ 0.01437475 -0.02252396 -0.99964296 -0.02095925]
+ [ 0.          0.          0.          1.        ]]
+
+T_ic:  (cam1 to imu0): 
+[[ 0.00853398  0.99986026  0.01437475  0.00303737]
+ [ 0.9997126  -0.0082089  -0.02252396  0.09750063]
+ [-0.02240281  0.01456284 -0.99964296 -0.02311995]
+ [ 0.          0.          0.          1.        ]]
+
+timeshift cam1 to imu0: [s] (t_imu = t_cam + shift)
+0.00426963662875
+
+Baselines:
+----------
+Baseline (cam0 to cam1): 
+[[ 0.99999718  0.00039916 -0.00234109 -0.12007933]
+ [-0.00041576  0.99997475 -0.00709396 -0.00020209]
+ [ 0.0023382   0.00709492  0.9999721   0.00207234]
+ [ 0.          0.          0.          1.        ]]
+baseline norm:  0.120097379352 [m]
+
+
+Gravity vector in target coords: [m/s^2]
+[ 0.08006638 -9.80619915 -0.02169278]
+
+
+Calibration configuration
+=========================
+
+cam0
+-----
+  Camera model: pinhole
+  Focal length: [526.8317903597064, 529.3031843485312]
+  Principal point: [638.3784593472517, 362.9824564554476]
+  Distortion model: radtan
+  Distortion coefficients: [-0.06149950304026363, 0.01482239483103718, -4.2262668598600376e-05, -0.004695939149020058]
+  Type: aprilgrid
+  Tags: 
+    Rows: 6
+    Cols: 6
+    Size: 0.0208 [m]
+    Spacing 0.00624 [m]
+
+
+cam1
+-----
+  Camera model: pinhole
+  Focal length: [524.9031086062662, 529.9497896073701]
+  Principal point: [656.2080381510465, 343.62999148021566]
+  Distortion model: radtan
+  Distortion coefficients: [-0.038530979257722586, -0.0011187957905845088, 0.00016590790457398838, -0.005718363572661035]
+  Type: aprilgrid
+  Tags: 
+    Rows: 6
+    Cols: 6
+    Size: 0.0208 [m]
+    Spacing 0.00624 [m]
+
+
+
+IMU configuration
+=================
+
+IMU0:
+----------------------------
+  Model: calibrated
+  Update rate: 400.0
+  Accelerometer:
+    Noise density: 0.0249989777828 
+    Noise density (discrete): 0.499979555655 
+    Random walk: 0.000383377122126
+  Gyroscope:
+    Noise density: 0.00214394917684
+    Noise density (discrete): 0.0428789835368 
+    Random walk: 1.71694027056e-05
+  T_i_b
+    [[ 1.  0.  0.  0.]
+     [ 0.  1.  0.  0.]
+     [ 0.  0.  1.  0.]
+     [ 0.  0.  0.  1.]]
+  time offset with respect to IMU0: 0.0 [s]
+
