@@ -7,15 +7,16 @@
 
 &emsp;&emsp; <font face="Times New Roman" size = 4>The presented novel large dataset (up to 570GB) has complex urban scenarios for VIO/SLAM and autonomous driving. To further promoting the development of these technologies, we make it public. Owning to the space limitation of github, we can only upload the groundtruth images and videos for preview, which are in **folder [groundtruths](https://github.com/chentianyangWHU/WHUVID/groundtruths) and folder [previews](https://github.com/chentianyangWHU/WHUVID/previews)**, respectively. Calibration results using kalibr are stored in **folder [Calibration](https://github.com/chentianyangWHU/WHUVID/Calibration)** and raw data used for calibrating can be downloaded from links listed below. **To get full dataset with 34 image sequences, please click the links of Baidu Netdisk shared below.** Note that due to the dataset is so huge, we have only uploaded part of the dataset so far (April 19, 2022), and the rest is being uploaded. The uploading work is expected to be completed **within two week**.</font>
 
-&emsp;&emsp; <font face="Times New Roman" size = 4>The links are as follows:</font>
-  &emsp;&emsp; <font face="Times New Roman" size = 4>Calibration data.</font>
-  &emsp;&emsp; <font face="Times New Roman" size = 3>zip file:[link](), password:xxx; size: 1.80 GB.</font>
+&emsp;&emsp; <font face="Times New Roman" size = 4>The links are as follows:</font>  
+  
+&emsp;&emsp; <font face="Times New Roman" size = 4>Calibration data.</font>  
+  &emsp;&emsp; <font face="Times New Roman" size = 3>zip file:[link](), password:xxx; size: 1.80 GB.</font>  
   &emsp;&emsp; <font face="Times New Roman" size = 3>ros bag :[link](), password:xxx; size: 2.51 GB.</font>
 
-&emsp;&emsp; <font face="Times New Roman" size = 4>WHUVID001.</font>
-&emsp;&emsp; <font face="Times New Roman" size = 3>cam0:[link](), password:xxx; size: 9.61 GB.</font>
-&emsp;&emsp; <font face="Times New Roman" size = 3>cam1:[link](), password:xxx; size: 9.46 GB.</font>
-&emsp;&emsp; <font face="Times New Roman" size = 3>other_files:[link](), password:xxx; size: 35.18 MB.</font>
+&emsp;&emsp; <font face="Times New Roman" size = 4>WHUVID001.</font>  
+  &emsp;&emsp; <font face="Times New Roman" size = 3>cam0:[link](), password:xxx; size: 9.61 GB.</font>  
+  &emsp;&emsp; <font face="Times New Roman" size = 3>cam1:[link](), password:xxx; size: 9.46 GB.</font>  
+  &emsp;&emsp; <font face="Times New Roman" size = 3>other_files:[link](), password:xxx; size: 35.18 MB.</font>
 
 &emsp;&emsp; <font face="Times New Roman" size = 4>WHUVID002.</font>
 &emsp;&emsp; <font face="Times New Roman" size = 3>cam0:[link](), password:xxx; size: 9.25 GB.</font>
