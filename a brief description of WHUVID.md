@@ -1,4 +1,4 @@
-# <center><font face="Times New Roman"> WHUVID: Wuhan Urban Visual-inertial Dataset </font></center>
+# <center><font face="Times New Roman"> WHUVID (Wuhan Urban Visual-inertial Dataset) for vSLAM and VIO </font></center>
 
 *<center><font face="Times New Roman" size = 3> Author：[chentianyang](https://github.com/chentianyangWHU) &emsp;&emsp; E-mail：tychen@whu.edu.cn &emsp;&emsp; </center>*
 
@@ -84,4 +84,10 @@
 
 
 
-## <center><font face="Times New Roman"> WHUVID011 - WHUVID034: Coming soon... </font></center>
+# <center><font face="Times New Roman"> WHUVID011 - WHUVID034: Coming soon... </font></center>
+  
+# <center><font face="Times New Roman"> Cite:</font></center>  
+  
+&emsp;&emsp; <font face="Times New Roman" size = 4>Coming soon... </font>  
+  
+  
