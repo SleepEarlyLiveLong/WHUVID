@@ -91,7 +91,7 @@
 <font face="Times New Roman" size = 5>If you use this dataset for your research, please cite our paper: </font>  
   
   ```
-  WHUVID: A Large-Scale Stereo-IMU Dataset for Visual-Inertial Odometry and Autonomous Driving in Chinese Urban Scenarios
+  [WHUVID: A Large-Scale Stereo-IMU Dataset for Visual-Inertial Odometry and Autonomous Driving in Chinese Urban Scenarios](https://www.mdpi.com/2072-4292/14/9/2033)
   ```
   
 <font face="Times New Roman" size = 5>... or citation with BibTeX: </font>  
