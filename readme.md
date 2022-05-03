@@ -96,10 +96,14 @@
   <font face="Times New Roman" size = 5>...or, for citation with BibTeX:</font>  
   
   ```
-  @misc{cty2022whuvid,
-  title={WHUVID: Wuhan Urban Visual-inertial Dataset.},
-  author={tianyang chen, fangling pu, hongjia chen, zhihong liu},
-  howpublished={\url{https://github.com/chentianyangWHU/WHUVID}},
-  year={2022}
+  @article{chen2022whuvid,
+  title={WHUVID: A Large-Scale Stereo-IMU Dataset for Visual-Inertial Odometry and Autonomous Driving in Chinese Urban Scenarios},
+  author={Chen, Tianyang and Pu, Fangling and Chen, Hongjia and Liu, Zhihong},
+  journal={Remote Sensing},
+  volume={14},
+  number={9},
+  pages={2033},
+  year={2022},
+  publisher={MDPI}
   }
   ```
