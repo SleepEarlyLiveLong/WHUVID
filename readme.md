@@ -88,7 +88,13 @@
   
 ## <center><font face="Times New Roman"> Cite:</font></center>  
   
-<font face="Times New Roman" size = 5>If you use this dataset for your research, please cite: </font>  
+<font face="Times New Roman" size = 5>If you use this dataset for your research, please cite our paper: </font>  
+  
+  ```
+  WHUVID: A Large-Scale Stereo-IMU Dataset for Visual-Inertial Odometry and Autonomous Driving in Chinese Urban Scenarios
+  ```
+  
+<font face="Times New Roman" size = 5>... or citation with BibTeX: </font>  
   
   ```
   @article{chen2022whuvid,
