@@ -88,12 +88,7 @@
   
 ## <center><font face="Times New Roman"> Cite:</font></center>  
   
-<font face="Times New Roman" size = 5>If you use this dataset for your research, a footnote with the link to this repository is appreciated: </font>  
-  ```
-  github.com/chentianyangWHU/WHUVID.
-  ```
-    
-  <font face="Times New Roman" size = 5>...or, for citation with BibTeX:</font>  
+<font face="Times New Roman" size = 5>If you use this dataset for your research, please cite: </font>  
   
   ```
   @article{chen2022whuvid,
