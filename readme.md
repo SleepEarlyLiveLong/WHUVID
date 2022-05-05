@@ -4,7 +4,7 @@
 
 &emsp; &emsp;<font face="Times New Roman" size = 5> **Here, we present a challenging stereo-inertial dataset collected onboard a sports utility vehicle for the tasks of visual-inertial odometry/simultaneous localization and mapping (VIO/SLAM), autonomous driving, object detection, and other computer vision techniques.** We recorded a large set of **time-synchronized stereo image sequences (2x1280x720@30fps RGB) and corresponding inertial measurement unit (IMU) readings (400Hz)** from a Stereolabs ZED2 camera, along with **centimeter-level-accurate six-degree-of-freedom ground truth (100Hz)** from a u-blox GNSS-IMU navigation device with real-time-kinematic correction signals. The dataset comprises **34 sequences recorded during November 2020 in Wuhan, the largest city of Central China**. Further, the dataset contains abundant unique urban scenes and features of a complex modern metropolis, which have rarely appeared in previously released benchmarks. Results from milestone VIO/SLAM algorithms reveal that methods exhibiting excellent performance on established datasets such as KITTI and EuRoC perform unsatisfactorily when moved outside the laboratory to the real world. We expect our dataset to reduce this limitation by providing more challenging and diverse scenarios to the research community. The full dataset with raw and calibrated data is publicly available along with a lightweight MATLAB/Python toolbox for preprocessing and evaluation.</font>
 
-&emsp;&emsp; <font face="Times New Roman" size = 5>The presented novel large dataset **(up to 570GB)** has complex urban scenarios for VIO/SLAM and autonomous driving. To further promoting the development of these technologies, we make it public. Owning to the space limitation of github, we can only upload the groundtruth images and videos for preview, which are in folder **[groundtruths](https://github.com/chentianyangWHU/WHUVID/groundtruths)** and folder **[previews](https://github.com/chentianyangWHU/WHUVID/previews)**, respectively. Calibration results using kalibr are stored in folder **[Calibration](https://github.com/chentianyangWHU/WHUVID/Calibration)** and raw data used for calibrating can be downloaded from links listed below. **To get full dataset with 34 image sequences, please click the links of Baidu Netdisk shared below.** Note that due to the dataset is so huge, we have only uploaded part of the dataset so far (April 19, 2022), and the rest is being uploaded. The uploading work is expected to be completed **within two week**.</font>
+&emsp;&emsp; <font face="Times New Roman" size = 5>The presented novel large dataset **(up to 570GB)** has complex urban scenarios for VIO/SLAM and autonomous driving. To further promoting the development of these technologies, we make it public. Owning to the space limitation of github, we can only upload the groundtruth images and videos for preview, which are in folder **[groundtruths](https://github.com/chentianyangWHU/WHUVID/groundtruths)** and folder **[previews](https://github.com/chentianyangWHU/WHUVID/previews)**, respectively. Calibration results using kalibr are stored in folder **[Calibration](https://github.com/chentianyangWHU/WHUVID/Calibration)** and raw data used for calibrating can be downloaded from links listed below. **To get full dataset with 34 image sequences, please click the links of Baidu Netdisk shared below.** Note that due to the dataset is so huge, we have only uploaded part of the dataset so far (April 19, 2022), and the rest is being uploaded. The uploading work is expected to be completed **within three week**.</font>
 
   
 ## <center><font face="Times New Roman"> Download</font></center>
@@ -53,19 +53,37 @@
   &emsp;&emsp;&emsp; <font face="Times New Roman" size = 3>cam1_part6: [download](https://pan.baidu.com/s/112LVeOmPfoXk3DPc4zwomA), password: 2v8c; size: 4.27 GB.</font>  
   &emsp;&emsp;&emsp; <font face="Times New Roman" size = 3>cam1_part7: [download](https://pan.baidu.com/s/1rpr03llP81jocuBMLOAYJw), password: bu2p; size: 3.49 GB.</font>  
   &emsp;&emsp;&emsp; <font face="Times New Roman" size = 3>cam1_part8: [download](https://pan.baidu.com/s/1eiddVLyTjPGTUjxQya_b5A), password: li1y; size: 0.43 GB.</font>  
-  &emsp;&emsp;&emsp; <font face="Times New Roman" size = 3>other_files :[download](https://pan.baidu.com/s/17e8op6X5sPvoYqNwO8bwpw), password: 4n7d; size: 36.14 MB.</font>  
+  &emsp;&emsp;&emsp; <font face="Times New Roman" size = 3>other_files: [download](https://pan.baidu.com/s/17e8op6X5sPvoYqNwO8bwpw), password: 4n7d; size: 36.14 MB.</font>  
+  
+  &emsp;&emsp; <font face="Times New Roman" size = 5>**WHUVID006.**</font>  
+  &emsp;&emsp;&emsp; <font face="Times New Roman" size = 3>cam0_part1: [download](https://pan.baidu.com/s/14zSRihjV5ZiUIJEZ_cY7lA), password: vom7; size: 3.46 GB.</font>  
+  &emsp;&emsp;&emsp; <font face="Times New Roman" size = 3>cam0_part2: [download](https://pan.baidu.com/s/1koe_sHWkBkqEBaFdSjqAbw), password: ysff; size: 3.51 GB.</font>  
+  &emsp;&emsp;&emsp; <font face="Times New Roman" size = 3>cam0_part3: [download](https://pan.baidu.com/s/10obTFvy9W6nmUwuo-wiXcA), password: udu4; size: 3.15 GB.</font>  
+  &emsp;&emsp;&emsp; <font face="Times New Roman" size = 3>cam0_part4: [download](https://pan.baidu.com/s/1cKgilk1rHzmVXpEVhsYNZQ), password: w2es; size: 2.93 GB.</font>  
+  &emsp;&emsp;&emsp; <font face="Times New Roman" size = 3>cam0_part5: [download](https://pan.baidu.com/s/1klnOKL8j21oazmfxxDRyiA), password: ea4v; size: 3.14 GB.</font>  
+  &emsp;&emsp;&emsp; <font face="Times New Roman" size = 3>cam1_part1: [download](https://pan.baidu.com/s/1m8jHrpk55TSLUtqyXiGgow), password: lqtd; size: 3.57 GB.</font>  
+  &emsp;&emsp;&emsp; <font face="Times New Roman" size = 3>cam1_part2: [download](https://pan.baidu.com/s/1OPMOIqGF_G8Kk2_vF3SVvw), password: cxvj; size: 3.65 GB.</font>  
+  &emsp;&emsp;&emsp; <font face="Times New Roman" size = 3>cam1_part3: [download](https://pan.baidu.com/s/1SCBlq8sB_Kk3ErZ0uIleDA), password: xioe; size: 3.27 GB.</font>  
+  &emsp;&emsp;&emsp; <font face="Times New Roman" size = 3>cam1_part4: [download](https://pan.baidu.com/s/1wuQKeID1X15XausWY8MOMA), password: kkyc; size: 3.04 GB.</font>  
+  &emsp;&emsp;&emsp; <font face="Times New Roman" size = 3>cam1_part5: [download](https://pan.baidu.com/s/1KyEzKSlqDfKYvPW-J6PmLw), password: 2s0s; size: 3.20 GB.</font>  
+  &emsp;&emsp;&emsp; <font face="Times New Roman" size = 3>other_files: [download](https://pan.baidu.com/s/1_6xZAO9zemb_vGgoYy3COA), password: 0dpq; size: 39.94 MB.</font>  
+  
+  &emsp;&emsp; <font face="Times New Roman" size = 5>**WHUVID007.**</font>  
+  &emsp;&emsp;&emsp; <font face="Times New Roman" size = 3>cam0: [download](https://pan.baidu.com/s/1prIlkCMwl01YeEI3ZuplXQ), password: 9y4x; size: 3.47 GB.</font>  
+  &emsp;&emsp;&emsp; <font face="Times New Roman" size = 3>cam1: [download](https://pan.baidu.com/s/138o7Wagq1SozcWnynO6vRA), password: rjfx; size: 3.61 GB.</font>  
+  &emsp;&emsp;&emsp; <font face="Times New Roman" size = 3>other_files: [download](https://pan.baidu.com/s/1RkDu2qSS2yu_3iPUR-S70Q), password: ppsf; size: 8.60 MB.</font>  
+  
+    &emsp;&emsp; <font face="Times New Roman" size = 5>**WHUVID008.**</font>  
+  &emsp;&emsp;&emsp; <font face="Times New Roman" size = 3>cam0_part1: [download](https://pan.baidu.com/s/1DC5xB_FoNBRvvkGoYgVwMQ), password: ft01; size: 2.84 GB.</font>  
+  &emsp;&emsp;&emsp; <font face="Times New Roman" size = 3>cam0_part2: [download](https://pan.baidu.com/s/1xBvprKtYvOB4RXnWUPm-dQ), password: cf0w; size: 2.78 GB.</font>  
+  &emsp;&emsp;&emsp; <font face="Times New Roman" size = 3>cam0_part3: [download](https://pan.baidu.com/s/1O8OFpHSTBmIMDtMzBqcaoQ), password: 2v1t; size: 1.10 GB.</font>  
+  &emsp;&emsp;&emsp; <font face="Times New Roman" size = 3>cam1_part1: [download](https://pan.baidu.com/s/1QBr6_fs-uPr7bksJ2w3yYQ), password: laoh; size: 2.94 GB.</font>  
+  &emsp;&emsp;&emsp; <font face="Times New Roman" size = 3>cam1_part2: [download](https://pan.baidu.com/s/1xH72dEJwI6GFaLLerkzt4w), password: ua9h; size: 2.87 GB.</font>  
+  &emsp;&emsp;&emsp; <font face="Times New Roman" size = 3>cam1_part3: [download](https://pan.baidu.com/s/10EVvzWY-1I9q3NJCeGOkeg), password: 9713; size: 1.14 GB.</font>  
+  &emsp;&emsp;&emsp; <font face="Times New Roman" size = 3>other_files: [download](https://pan.baidu.com/s/1EMGNk1C86gDqq-PbR2VPNw), password: v1ki; size: 12.95 MB.</font> 
   
   *<font color="#dd0000">(The following sections of data are being uploaded and cannot be accessed temporarily. We will update the data upload progress every day.)</font>*  
-  
-&emsp;&emsp; <font face="Times New Roman" size = 4>**WHUVID006.**</font>  
-  &emsp;&emsp;&emsp; <font face="Times New Roman" size = 3>cam0: [xxx](), password: xxx; size: xxx GB.</font>  
-  &emsp;&emsp;&emsp; <font face="Times New Roman" size = 3>cam1: [xxx](), password: xxx; size: xxx GB.</font>  
-  &emsp;&emsp;&emsp; <font face="Times New Roman" size = 3>other_files: [xxx](), password: xxx; size: xxx GB.</font>  
 
-&emsp;&emsp; <font face="Times New Roman" size = 4>**WHUVID007.**</font>  
-  &emsp;&emsp;&emsp; <font face="Times New Roman" size = 3>cam0: [xxx](), password: xxx; size: xxx GB.</font>  
-  &emsp;&emsp;&emsp; <font face="Times New Roman" size = 3>cam1: [xxx](), password: xxx; size: xxx GB.</font>  
-  &emsp;&emsp;&emsp; <font face="Times New Roman" size = 3>other_files: [xxx](), password: xxx; size: xxx GB.</font>  
 
 &emsp;&emsp; <font face="Times New Roman" size = 4>**WHUVID008.**</font>  
   &emsp;&emsp;&emsp; <font face="Times New Roman" size = 3>cam0: [xxx](), password: xxx; size: xxx GB.</font>  
