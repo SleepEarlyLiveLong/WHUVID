@@ -232,11 +232,13 @@
   &emsp;&emsp;&emsp; <font face="Times New Roman" size = 3>cam1: [xxx](), password: xxx; size: xxx GB.</font>  
   &emsp;&emsp;&emsp; <font face="Times New Roman" size = 3>other_files: [xxx](), password: xxx; size: xxx MB.</font>  
   
-## <center><font face="Times New Roman"> WHUVID021 - WHUVID034: Coming soon... </font></center>
+## <center><font face="Times New Roman"> WHUVID030 - WHUVID034: Coming soon... </font></center>
   
 ## <center><font face="Times New Roman"> Cite:</font></center>  
   
-<font face="Times New Roman" size = 5>If you use this dataset for your research, please cite our paper. </font>  
+<font face="Times New Roman" size = 5>If you use this dataset for your research, please cite our paper: </font> 
+  [WHUVID: A Large-Scale Stereo-IMU Dataset for Visual-Inertial Odometry and Autonomous Driving in Chinese Urban Scenarios](https://www.mdpi.com/2072-4292/14/9/2033)
+  
 <font face="Times New Roman" size = 5>... or citation with BibTeX: </font>  
   
   ```
