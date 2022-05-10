@@ -256,7 +256,10 @@
   &emsp;&emsp;&emsp; <font face="Times New Roman" size = 3>cam1_part2: [download](https://pan.baidu.com/s/1gsGhPFX1GMlVlULvyAJ2wg), password: 5h40; size: 1.03 GB.</font>  
   &emsp;&emsp;&emsp; <font face="Times New Roman" size = 3>other_files: [download](https://pan.baidu.com/s/1TV--42jhO2yQBJV685XCJg), password: xssh; size: 13.11 MB.</font> 
   
-*<font color="#dd0000">(WHUVID032 is under processing.)</font>*  
+&emsp;&emsp; <font face="Times New Roman" size = 5>**WHUVID032. (Stereo + IMU + GT + BoundingBox)**</font>  
+  &emsp;&emsp;&emsp; <font face="Times New Roman" size = 3>cam0: [download](https://pan.baidu.com/s/1SNHaC1CVJ3F0F674oGqSnQ), password: 8c6z; size: 1.31 GB.</font>  
+  &emsp;&emsp;&emsp; <font face="Times New Roman" size = 3>cam1: [download](https://pan.baidu.com/s/1HbHevreWRyDbpIT3oN-5tw), password: 9uog; size: 1.32 GB.</font>  
+  &emsp;&emsp;&emsp; <font face="Times New Roman" size = 3>other_files: [download](https://pan.baidu.com/s/1IMtEFn_U9Qs1YMxUnoJSLg), password: i2x3; size: 4.58 MB.</font>  
   
 &emsp;&emsp; <font face="Times New Roman" size = 5>**WHUVID033. (Stereo + IMU + GT + BoundingBox)**</font>  
   &emsp;&emsp;&emsp; <font face="Times New Roman" size = 3>cam0_part1: [download](https://pan.baidu.com/s/1M4nFv27gMqh49q90NdYA6A), password: ct8z; size: 3.65 GB.</font>  
