@@ -275,7 +275,7 @@
   &emsp;&emsp;&emsp; <font face="Times New Roman" size = 3>cam1_part2: [download](https://pan.baidu.com/s/1VvKl8RIH8TWH_zvUPVctDg), password: fbeb; size: 3.93 GB.</font>  
   &emsp;&emsp;&emsp; <font face="Times New Roman" size = 3>other_files: [download](https://pan.baidu.com/s/1tn41czkz3TQ6T-ct-sP7WQ), password: ekdq; size: 16.12 MB.</font>  
   
-  *<font color="#dd0000">(If you have any questions about the dataset or can't get the data from the above links, please don't hesitate to contact me. :))</font>*  
+  *<font color="#dd0000">If you have any questions about the dataset or can't get the data from the above links, please don't hesitate to contact me. :)</font>*  
   
 ## <center><font face="Times New Roman"> Cite:</font></center>  
   
