@@ -15,8 +15,6 @@
 ## <center><font face="Times New Roman"> Download</font></center>
 <font face="Times New Roman" size = 8>**Links are as follows:**</font>  
   
-  *<font color="#dd0000">(The following sections of data have been uploaded and can be downloaded.)</font>*  
-  
 &emsp;&emsp; <font face="Times New Roman" size = 5>**Calibration data.**</font>  
   &emsp;&emsp;&emsp; <font face="Times New Roman" size = 3>zip file: [download](https://pan.baidu.com/s/1vEJYteSgoEzjKjSE4Ae2xg), password: CAzp; size: 1.80 GB.</font>  
   &emsp;&emsp;&emsp; <font face="Times New Roman" size = 3>ros bag : [download](https://pan.baidu.com/s/1oRQV3-NHgUUnmmwHgttKJQ), password: CArb; size: 2.51 GB.</font>  
@@ -275,7 +273,7 @@
   &emsp;&emsp;&emsp; <font face="Times New Roman" size = 3>cam1_part2: [download](https://pan.baidu.com/s/1VvKl8RIH8TWH_zvUPVctDg), password: fbeb; size: 3.93 GB.</font>  
   &emsp;&emsp;&emsp; <font face="Times New Roman" size = 3>other_files: [download](https://pan.baidu.com/s/1tn41czkz3TQ6T-ct-sP7WQ), password: ekdq; size: 16.12 MB.</font>  
   
-  *<font color="#dd0000">If you have any questions about the dataset or can't get the data from the above links, please don't hesitate to contact me. :)</font>*  
+  **<font color="#dd0000">If you have any questions about the dataset or can't get the data from the above links, please don't hesitate to contact me. :)</font>**  
   
 ## <center><font face="Times New Roman"> Cite:</font></center>  
   
