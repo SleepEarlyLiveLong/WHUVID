@@ -20,9 +20,11 @@
   &emsp;&emsp;&emsp; <font face="Times New Roman" size = 3>ros bag : [download](https://pan.baidu.com/s/1oRQV3-NHgUUnmmwHgttKJQ), password: CArb; size: 2.51 GB.</font>  
 
 &emsp;&emsp; <font face="Times New Roman" size = 5>**WHUVID001. (Stereo + IMU + GT + BoundingBox)**</font>  
-  &emsp;&emsp;&emsp; <font face="Times New Roman" size = 3>cam0: [download](https://pan.baidu.com/s/1ah8hkRhkWkwY22kD_v4ofA), password: 8x14; size: 9.61 GB.</font>  
-  &emsp;&emsp;&emsp; <font face="Times New Roman" size = 3>cam1: [download](https://pan.baidu.com/s/1MdXfC-LKP6djzQ1WgHoW0A), password: e2sd; size: 9.46 GB.</font>  
-  &emsp;&emsp;&emsp; <font face="Times New Roman" size = 3>other_files: [download](https://pan.baidu.com/s/1encX6-eBbM0-lyRI5WkcTA), password: d60b; size: 35.18 MB.</font>  
+  &emsp;&emsp;&emsp; <font face="Times New Roman" size = 3>cam0_part1: [download](https://pan.baidu.com/s/1CDHIZF_WOIOsWrw5tjp9PQ), password: fm1h; size: 5.02 GB.</font>  
+  &emsp;&emsp;&emsp; <font face="Times New Roman" size = 3>cam0_part2: [download](https://pan.baidu.com/s/1ehNUqwouFu-pQeZ9gI0AAw), password: 6at1; size: 4.60 GB.</font>  
+  &emsp;&emsp;&emsp; <font face="Times New Roman" size = 3>cam1_part1: [download](https://pan.baidu.com/s/1Nco6hArMP4wu3RhsL5R9MQ), password: mjzv; size: 4.96 GB.</font>  
+  &emsp;&emsp;&emsp; <font face="Times New Roman" size = 3>cam1_part2: [download](https://pan.baidu.com/s/1i8Qrsi25JNOUPGVH-KDEFA), password: 1kck; size: 4.50 GB.</font>  
+  &emsp;&emsp;&emsp; <font face="Times New Roman" size = 3>other_files: [download](https://pan.baidu.com/s/13T7UAdIl91i-NSQ9GAkEzw), password: hz0z; size: 16.07 MB.</font> 
 
 &emsp;&emsp; <font face="Times New Roman" size = 5>**WHUVID002. (Stereo + IMU + GT + BoundingBox)**</font>  
   &emsp;&emsp;&emsp; <font face="Times New Roman" size = 3>cam0: [download](https://pan.baidu.com/s/1plinLkG-7ff8IbyQa5e5Rw), password: t3du; size: 9.25 GB.</font>  
